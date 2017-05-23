@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 4c1f963ca3511ae4ebdb362a55bd32c1
+timeCreated: 1465313272
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Ear.L
+    100006: Ear.L_end
+    100008: Ear.R
+    100010: Ear.R_end
+    100012: Feet_Back.L
+    100014: Feet_Back.L_end
+    100016: Feet_Back.R
+    100018: Feet_Back.R_end
+    100020: Feet_Front.L
+    100022: Feet_Front.L_end
+    100024: Feet_Front.R
+    100026: Feet_Front.R_end
+    100028: Giraffe
+    100030: //RootNode
+    100032: Head
+    100034: Head_end
+    100036: Head_Target
+    100038: Head_Target_end
+    100040: Lower_Back_Leg.L
+    100042: Lower_Back_Leg.R
+    100044: Lower_Back_Leg_Target.L
+    100046: Lower_Back_Leg_Target.L_end
+    100048: Lower_Back_Leg_Target.R
+    100050: Lower_Back_Leg_Target.R_end
+    100052: Lower_Front_Leg.L
+    100054: Lower_Front_Leg.R
+    100056: Lower_Front_Leg_Target.L
+    100058: Lower_Front_Leg_Target.L_end
+    100060: Lower_Front_Leg_Target.R
+    100062: Lower_Front_Leg_Target.R_end
+    100064: Neck_End
+    100066: Neck_Mid
+    100068: Neck_Start
+    100070: Root
+    100072: Tail_Final
+    100074: Tail_Final_end
+    100076: Tail_Final_Target
+    100078: Tail_Final_Target_end
+    100080: Tail_Root
+    100082: Upper_Back_Leg.L
+    100084: Upper_Back_Leg.R
+    100086: Upper_Front_Leg.L
+    100088: Upper_Front_Leg.R
+    400000: Armature
+    400002: Body
+    400004: Ear.L
+    400006: Ear.L_end
+    400008: Ear.R
+    400010: Ear.R_end
+    400012: Feet_Back.L
+    400014: Feet_Back.L_end
+    400016: Feet_Back.R
+    400018: Feet_Back.R_end
+    400020: Feet_Front.L
+    400022: Feet_Front.L_end
+    400024: Feet_Front.R
+    400026: Feet_Front.R_end
+    400028: Giraffe
+    400030: //RootNode
+    400032: Head
+    400034: Head_end
+    400036: Head_Target
+    400038: Head_Target_end
+    400040: Lower_Back_Leg.L
+    400042: Lower_Back_Leg.R
+    400044: Lower_Back_Leg_Target.L
+    400046: Lower_Back_Leg_Target.L_end
+    400048: Lower_Back_Leg_Target.R
+    400050: Lower_Back_Leg_Target.R_end
+    400052: Lower_Front_Leg.L
+    400054: Lower_Front_Leg.R
+    400056: Lower_Front_Leg_Target.L
+    400058: Lower_Front_Leg_Target.L_end
+    400060: Lower_Front_Leg_Target.R
+    400062: Lower_Front_Leg_Target.R_end
+    400064: Neck_End
+    400066: Neck_Mid
+    400068: Neck_Start
+    400070: Root
+    400072: Tail_Final
+    400074: Tail_Final_end
+    400076: Tail_Final_Target
+    400078: Tail_Final_Target_end
+    400080: Tail_Root
+    400082: Upper_Back_Leg.L
+    400084: Upper_Back_Leg.R
+    400086: Upper_Front_Leg.L
+    400088: Upper_Front_Leg.R
+    4300000: Giraffe
+    7400000: _Attack2_
+    7400002: Armature|ArmatureAction
+    7400004: Armature|ArmatureAction.001
+    7400006: Armature|ArmatureAction.002
+    9500000: //RootNode
+    13700000: Giraffe
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _Attack2_
+      takeName: Armature|_Attack2_
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Ear.L
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Ear.L/Ear.L_end
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Ear.R
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Ear.R/Ear.R_end
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Head
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Head/Head_end
+        weight: 1
+      - path: Armature/Root/Body/Tail_Root
+        weight: 1
+      - path: Armature/Root/Body/Tail_Root/Tail_Final
+        weight: 1
+      - path: Armature/Root/Body/Tail_Root/Tail_Final/Tail_Final_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.L/Lower_Back_Leg.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.L/Lower_Back_Leg.L/Feet_Back.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.L/Lower_Back_Leg.L/Feet_Back.L/Feet_Back.L_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.R/Lower_Back_Leg.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.R/Lower_Back_Leg.R/Feet_Back.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.R/Lower_Back_Leg.R/Feet_Back.R/Feet_Back.R_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.L/Lower_Front_Leg.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.L/Lower_Front_Leg.L/Feet_Front.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.L/Lower_Front_Leg.L/Feet_Front.L/Feet_Front.L_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.R/Lower_Front_Leg.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.R/Lower_Front_Leg.R/Feet_Front.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.R/Lower_Front_Leg.R/Feet_Front.R/Feet_Front.R_end
+        weight: 1
+      - path: Armature/Root/Head_Target
+        weight: 1
+      - path: Armature/Root/Head_Target/Head_Target_end
+        weight: 1
+      - path: Armature/Root/Lower_Back_Leg_Target.L
+        weight: 1
+      - path: Armature/Root/Lower_Back_Leg_Target.L/Lower_Back_Leg_Target.L_end
+        weight: 1
+      - path: Armature/Root/Lower_Back_Leg_Target.R
+        weight: 1
+      - path: Armature/Root/Lower_Back_Leg_Target.R/Lower_Back_Leg_Target.R_end
+        weight: 1
+      - path: Armature/Root/Lower_Front_Leg_Target.L
+        weight: 1
+      - path: Armature/Root/Lower_Front_Leg_Target.L/Lower_Front_Leg_Target.L_end
+        weight: 1
+      - path: Armature/Root/Lower_Front_Leg_Target.R
+        weight: 1
+      - path: Armature/Root/Lower_Front_Leg_Target.R/Lower_Front_Leg_Target.R_end
+        weight: 1
+      - path: Armature/Root/Tail_Final_Target
+        weight: 1
+      - path: Armature/Root/Tail_Final_Target/Tail_Final_Target_end
+        weight: 1
+      - path: Giraffe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: caf7369c09241224cbdbcf60c86e3718
+timeCreated: 1464919050
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Ear.L
+    100006: Ear.L_end
+    100008: Ear.R
+    100010: Ear.R_end
+    100012: Elephant
+    100014: //RootNode
+    100016: Feet_Back.L
+    100018: Feet_Back.L_end
+    100020: Feet_Back.R
+    100022: Feet_Back.R_end
+    100024: Feet_Front.L
+    100026: Feet_Front.L_end
+    100028: Feet_Front.R
+    100030: Feet_Front.R_end
+    100032: Feet_Target.L
+    100034: Feet_Target.L_end
+    100036: Feet_Target.R
+    100038: Feet_Target.R_end
+    100040: Head
+    100042: Lower_Leg_Back.L
+    100044: Lower_Leg_Back.R
+    100046: Lower_Leg_Back_Target.L
+    100048: Lower_Leg_Back_Target.L_end
+    100050: Lower_Leg_Back_Target.R
+    100052: Lower_Leg_Back_Target.R_end
+    100054: Lower_Leg_Front.L
+    100056: Lower_Leg_Front.R
+    100058: Neck
+    100060: Nose
+    100062: Nose_end
+    100064: Nose_Target
+    100066: Nose_Target_end
+    100068: Root
+    100070: Tail_1
+    100072: Tail_End
+    100074: Tail_End_end
+    100076: Tail_End_Target
+    100078: Tail_End_Target_end
+    100080: Tail_Start
+    100082: Trunk_1
+    100084: Trunk_2
+    100086: Trunk_End
+    100088: Upper_Leg_Back.L
+    100090: Upper_Leg_Back.R
+    100092: Upper_Leg_Front.L
+    100094: Upper_Leg_Front.R
+    400000: Armature
+    400002: Body
+    400004: Ear.L
+    400006: Ear.L_end
+    400008: Ear.R
+    400010: Ear.R_end
+    400012: Elephant
+    400014: //RootNode
+    400016: Feet_Back.L
+    400018: Feet_Back.L_end
+    400020: Feet_Back.R
+    400022: Feet_Back.R_end
+    400024: Feet_Front.L
+    400026: Feet_Front.L_end
+    400028: Feet_Front.R
+    400030: Feet_Front.R_end
+    400032: Feet_Target.L
+    400034: Feet_Target.L_end
+    400036: Feet_Target.R
+    400038: Feet_Target.R_end
+    400040: Head
+    400042: Lower_Leg_Back.L
+    400044: Lower_Leg_Back.R
+    400046: Lower_Leg_Back_Target.L
+    400048: Lower_Leg_Back_Target.L_end
+    400050: Lower_Leg_Back_Target.R
+    400052: Lower_Leg_Back_Target.R_end
+    400054: Lower_Leg_Front.L
+    400056: Lower_Leg_Front.R
+    400058: Neck
+    400060: Nose
+    400062: Nose_end
+    400064: Nose_Target
+    400066: Nose_Target_end
+    400068: Root
+    400070: Tail_1
+    400072: Tail_End
+    400074: Tail_End_end
+    400076: Tail_End_Target
+    400078: Tail_End_Target_end
+    400080: Tail_Start
+    400082: Trunk_1
+    400084: Trunk_2
+    400086: Trunk_End
+    400088: Upper_Leg_Back.L
+    400090: Upper_Leg_Back.R
+    400092: Upper_Leg_Front.L
+    400094: Upper_Leg_Front.R
+    4300000: Elephant
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Elephant
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

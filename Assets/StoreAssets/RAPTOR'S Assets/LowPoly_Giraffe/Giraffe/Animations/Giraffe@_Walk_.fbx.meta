@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: c824553d7d7bd534b86fe4a4e5285424
+timeCreated: 1464108788
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Camera
+    100006: Ear.L
+    100008: Ear.L_end
+    100010: Ear.R
+    100012: Ear.R_end
+    100014: Feet_Back.L
+    100016: Feet_Back.L_end
+    100018: Feet_Back.R
+    100020: Feet_Back.R_end
+    100022: Feet_Front.L
+    100024: Feet_Front.L_end
+    100026: Feet_Front.R
+    100028: Feet_Front.R_end
+    100030: Giraffe
+    100032: Giraffe(No_Eyes)
+    100034: //RootNode
+    100036: Head
+    100038: Head_end
+    100040: Head_Target
+    100042: Head_Target_end
+    100044: Lamp
+    100046: Lamp.001
+    100048: Lamp.002
+    100050: Lamp.003
+    100052: Lamp.004
+    100054: Lower_Back_Leg.L
+    100056: Lower_Back_Leg.R
+    100058: Lower_Back_Leg_Target.L
+    100060: Lower_Back_Leg_Target.L_end
+    100062: Lower_Back_Leg_Target.R
+    100064: Lower_Back_Leg_Target.R_end
+    100066: Lower_Front_Leg.L
+    100068: Lower_Front_Leg.R
+    100070: Lower_Front_Leg_Target.L
+    100072: Lower_Front_Leg_Target.L_end
+    100074: Lower_Front_Leg_Target.R
+    100076: Lower_Front_Leg_Target.R_end
+    100078: Neck_End
+    100080: Neck_Mid
+    100082: Neck_Start
+    100084: Root
+    100086: Tail_Final
+    100088: Tail_Final_end
+    100090: Tail_Final_Target
+    100092: Tail_Final_Target_end
+    100094: Tail_Root
+    100096: Upper_Back_Leg.L
+    100098: Upper_Back_Leg.R
+    100100: Upper_Front_Leg.L
+    100102: Upper_Front_Leg.R
+    400000: Armature
+    400002: Body
+    400004: Camera
+    400006: Ear.L
+    400008: Ear.L_end
+    400010: Ear.R
+    400012: Ear.R_end
+    400014: Feet_Back.L
+    400016: Feet_Back.L_end
+    400018: Feet_Back.R
+    400020: Feet_Back.R_end
+    400022: Feet_Front.L
+    400024: Feet_Front.L_end
+    400026: Feet_Front.R
+    400028: Feet_Front.R_end
+    400030: Giraffe
+    400032: Giraffe(No_Eyes)
+    400034: //RootNode
+    400036: Head
+    400038: Head_end
+    400040: Head_Target
+    400042: Head_Target_end
+    400044: Lamp
+    400046: Lamp.001
+    400048: Lamp.002
+    400050: Lamp.003
+    400052: Lamp.004
+    400054: Lower_Back_Leg.L
+    400056: Lower_Back_Leg.R
+    400058: Lower_Back_Leg_Target.L
+    400060: Lower_Back_Leg_Target.L_end
+    400062: Lower_Back_Leg_Target.R
+    400064: Lower_Back_Leg_Target.R_end
+    400066: Lower_Front_Leg.L
+    400068: Lower_Front_Leg.R
+    400070: Lower_Front_Leg_Target.L
+    400072: Lower_Front_Leg_Target.L_end
+    400074: Lower_Front_Leg_Target.R
+    400076: Lower_Front_Leg_Target.R_end
+    400078: Neck_End
+    400080: Neck_Mid
+    400082: Neck_Start
+    400084: Root
+    400086: Tail_Final
+    400088: Tail_Final_end
+    400090: Tail_Final_Target
+    400092: Tail_Final_Target_end
+    400094: Tail_Root
+    400096: Upper_Back_Leg.L
+    400098: Upper_Back_Leg.R
+    400100: Upper_Front_Leg.L
+    400102: Upper_Front_Leg.R
+    4300000: Giraffe(No_Eyes)
+    4300002: Giraffe
+    7400000: _Walk_
+    9500000: //RootNode
+    13700000: Giraffe
+    13700002: Giraffe(No_Eyes)
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _Walk_
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Ear.L
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Ear.L/Ear.L_end
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Ear.R
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Ear.R/Ear.R_end
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Head
+        weight: 1
+      - path: Armature/Root/Body/Neck_Start/Neck_Mid/Neck_End/Head/Head_end
+        weight: 1
+      - path: Armature/Root/Body/Tail_Root
+        weight: 1
+      - path: Armature/Root/Body/Tail_Root/Tail_Final
+        weight: 1
+      - path: Armature/Root/Body/Tail_Root/Tail_Final/Tail_Final_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.L/Lower_Back_Leg.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.L/Lower_Back_Leg.L/Feet_Back.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.L/Lower_Back_Leg.L/Feet_Back.L/Feet_Back.L_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.R/Lower_Back_Leg.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.R/Lower_Back_Leg.R/Feet_Back.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Back_Leg.R/Lower_Back_Leg.R/Feet_Back.R/Feet_Back.R_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.L/Lower_Front_Leg.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.L/Lower_Front_Leg.L/Feet_Front.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.L/Lower_Front_Leg.L/Feet_Front.L/Feet_Front.L_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.R/Lower_Front_Leg.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.R/Lower_Front_Leg.R/Feet_Front.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Front_Leg.R/Lower_Front_Leg.R/Feet_Front.R/Feet_Front.R_end
+        weight: 1
+      - path: Armature/Root/Head_Target
+        weight: 1
+      - path: Armature/Root/Head_Target/Head_Target_end
+        weight: 1
+      - path: Armature/Root/Lower_Back_Leg_Target.L
+        weight: 1
+      - path: Armature/Root/Lower_Back_Leg_Target.L/Lower_Back_Leg_Target.L_end
+        weight: 1
+      - path: Armature/Root/Lower_Back_Leg_Target.R
+        weight: 1
+      - path: Armature/Root/Lower_Back_Leg_Target.R/Lower_Back_Leg_Target.R_end
+        weight: 1
+      - path: Armature/Root/Lower_Front_Leg_Target.L
+        weight: 1
+      - path: Armature/Root/Lower_Front_Leg_Target.L/Lower_Front_Leg_Target.L_end
+        weight: 1
+      - path: Armature/Root/Lower_Front_Leg_Target.R
+        weight: 1
+      - path: Armature/Root/Lower_Front_Leg_Target.R/Lower_Front_Leg_Target.R_end
+        weight: 1
+      - path: Armature/Root/Tail_Final_Target
+        weight: 1
+      - path: Armature/Root/Tail_Final_Target/Tail_Final_Target_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Giraffe
+        weight: 1
+      - path: Giraffe(No_Eyes)
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Lamp.002
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Lamp.004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

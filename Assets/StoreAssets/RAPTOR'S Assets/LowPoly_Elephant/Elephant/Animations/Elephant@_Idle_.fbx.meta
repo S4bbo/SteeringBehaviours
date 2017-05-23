@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 987f2178a2254b549ae3f21999080806
+timeCreated: 1463930844
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Ear.L
+    100006: Ear.L_end
+    100008: Ear.R
+    100010: Ear.R_end
+    100012: Elephant.000
+    100014: //RootNode
+    100016: Feet_Back.L
+    100018: Feet_Back.L_end
+    100020: Feet_Back.R
+    100022: Feet_Back.R_end
+    100024: Feet_Front.L
+    100026: Feet_Front.L_end
+    100028: Feet_Front.R
+    100030: Feet_Front.R_end
+    100032: Feet_Target.L
+    100034: Feet_Target.L_end
+    100036: Feet_Target.R
+    100038: Feet_Target.R_end
+    100040: Head
+    100042: Lower_Leg_Back.L
+    100044: Lower_Leg_Back.R
+    100046: Lower_Leg_Back_Target.L
+    100048: Lower_Leg_Back_Target.L_end
+    100050: Lower_Leg_Back_Target.R
+    100052: Lower_Leg_Back_Target.R_end
+    100054: Lower_Leg_Front.L
+    100056: Lower_Leg_Front.R
+    100058: Neck
+    100060: Nose
+    100062: Nose_end
+    100064: Nose_Target
+    100066: Nose_Target_end
+    100068: Root
+    100070: Tail_1
+    100072: Tail_End
+    100074: Tail_End_end
+    100076: Tail_End_Target
+    100078: Tail_End_Target_end
+    100080: Tail_Start
+    100082: Trunk_1
+    100084: Trunk_2
+    100086: Trunk_End
+    100088: Upper_Leg_Back.L
+    100090: Upper_Leg_Back.R
+    100092: Upper_Leg_Front.L
+    100094: Upper_Leg_Front.R
+    400000: Armature
+    400002: Body
+    400004: Ear.L
+    400006: Ear.L_end
+    400008: Ear.R
+    400010: Ear.R_end
+    400012: Elephant.000
+    400014: //RootNode
+    400016: Feet_Back.L
+    400018: Feet_Back.L_end
+    400020: Feet_Back.R
+    400022: Feet_Back.R_end
+    400024: Feet_Front.L
+    400026: Feet_Front.L_end
+    400028: Feet_Front.R
+    400030: Feet_Front.R_end
+    400032: Feet_Target.L
+    400034: Feet_Target.L_end
+    400036: Feet_Target.R
+    400038: Feet_Target.R_end
+    400040: Head
+    400042: Lower_Leg_Back.L
+    400044: Lower_Leg_Back.R
+    400046: Lower_Leg_Back_Target.L
+    400048: Lower_Leg_Back_Target.L_end
+    400050: Lower_Leg_Back_Target.R
+    400052: Lower_Leg_Back_Target.R_end
+    400054: Lower_Leg_Front.L
+    400056: Lower_Leg_Front.R
+    400058: Neck
+    400060: Nose
+    400062: Nose_end
+    400064: Nose_Target
+    400066: Nose_Target_end
+    400068: Root
+    400070: Tail_1
+    400072: Tail_End
+    400074: Tail_End_end
+    400076: Tail_End_Target
+    400078: Tail_End_Target_end
+    400080: Tail_Start
+    400082: Trunk_1
+    400084: Trunk_2
+    400086: Trunk_End
+    400088: Upper_Leg_Back.L
+    400090: Upper_Leg_Back.R
+    400092: Upper_Leg_Front.L
+    400094: Upper_Leg_Front.R
+    4300000: Elephant.000
+    7400000: _Idle_
+    9500000: //RootNode
+    13700000: Elephant.000
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _Idle_
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Feet_Target.L
+        weight: 1
+      - path: Armature/Feet_Target.L/Feet_Target.L_end
+        weight: 1
+      - path: Armature/Feet_Target.R
+        weight: 1
+      - path: Armature/Feet_Target.R/Feet_Target.R_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Body
+        weight: 1
+      - path: Armature/Root/Body/Neck
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Ear.L
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Ear.L/Ear.L_end
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Ear.R
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Ear.R/Ear.R_end
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Nose_Target
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Nose_Target/Nose_Target_end
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Trunk_1
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Trunk_1/Trunk_2
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Trunk_1/Trunk_2/Trunk_End
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Trunk_1/Trunk_2/Trunk_End/Nose
+        weight: 1
+      - path: Armature/Root/Body/Neck/Head/Trunk_1/Trunk_2/Trunk_End/Nose/Nose_end
+        weight: 1
+      - path: Armature/Root/Body/Tail_Start
+        weight: 1
+      - path: Armature/Root/Body/Tail_Start/Tail_1
+        weight: 1
+      - path: Armature/Root/Body/Tail_Start/Tail_1/Tail_End
+        weight: 1
+      - path: Armature/Root/Body/Tail_Start/Tail_1/Tail_End/Tail_End_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Back.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Back.L/Lower_Leg_Back.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Back.L/Lower_Leg_Back.L/Feet_Back.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Back.L/Lower_Leg_Back.L/Feet_Back.L/Feet_Back.L_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Back.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Back.R/Lower_Leg_Back.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Back.R/Lower_Leg_Back.R/Feet_Back.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Back.R/Lower_Leg_Back.R/Feet_Back.R/Feet_Back.R_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Front.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Front.L/Lower_Leg_Front.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Front.L/Lower_Leg_Front.L/Feet_Front.L
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Front.L/Lower_Leg_Front.L/Feet_Front.L/Feet_Front.L_end
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Front.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Front.R/Lower_Leg_Front.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Front.R/Lower_Leg_Front.R/Feet_Front.R
+        weight: 1
+      - path: Armature/Root/Body/Upper_Leg_Front.R/Lower_Leg_Front.R/Feet_Front.R/Feet_Front.R_end
+        weight: 1
+      - path: Armature/Root/Lower_Leg_Back_Target.L
+        weight: 1
+      - path: Armature/Root/Lower_Leg_Back_Target.L/Lower_Leg_Back_Target.L_end
+        weight: 1
+      - path: Armature/Root/Lower_Leg_Back_Target.R
+        weight: 1
+      - path: Armature/Root/Lower_Leg_Back_Target.R/Lower_Leg_Back_Target.R_end
+        weight: 1
+      - path: Armature/Root/Tail_End_Target
+        weight: 1
+      - path: Armature/Root/Tail_End_Target/Tail_End_Target_end
+        weight: 1
+      - path: Elephant.000
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

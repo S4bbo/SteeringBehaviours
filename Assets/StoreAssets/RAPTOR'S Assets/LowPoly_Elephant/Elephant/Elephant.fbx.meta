@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: c420896aa91db6f4ea2700a843dd71a9
+timeCreated: 1463781114
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Body
+    100006: Cylinder
+    100008: Ear.L
+    100010: Ear.L_end
+    100012: Ear.R
+    100014: Ear.R_end
+    100016: Feet_Back.L
+    100018: Feet_Back.L_end
+    100020: Feet_Back.R
+    100022: Feet_Back.R_end
+    100024: Feet_Front.L
+    100026: Feet_Front.L_end
+    100028: Feet_Front.R
+    100030: Feet_Front.R_end
+    100032: Head
+    100034: Lower_Leg_Back.L
+    100036: Lower_Leg_Back.R
+    100038: Lower_Leg_Back_Target.L
+    100040: Lower_Leg_Back_Target.L_end
+    100042: Lower_Leg_Back_Target.R
+    100044: Lower_Leg_Back_Target.R_end
+    100046: Lower_Leg_Front.L
+    100048: Lower_Leg_Front.R
+    100050: Lower_Leg_Front_Target.L
+    100052: Lower_Leg_Front_Target.L_end
+    100054: Lower_Leg_Front_Target.R
+    100056: Lower_Leg_Front_Target.R_end
+    100058: Neck
+    100060: Nose
+    100062: Nose_end
+    100064: Nose_Target
+    100066: Nose_Target_end
+    100068: Root
+    100070: Tail_1
+    100072: Tail_End
+    100074: Tail_End_end
+    100076: Tail_End_Target
+    100078: Tail_End_Target_end
+    100080: Tail_Start
+    100082: Trunk_1
+    100084: Trunk_2
+    100086: Trunk_End
+    100088: Upper_Leg_Back.L
+    100090: Upper_Leg_Back.R
+    100092: Upper_Leg_Front.L
+    100094: Upper_Leg_Front.R
+    100096: Camera
+    100098: Cylinder.001
+    100100: Cylinder.002
+    100102: Empty
+    100104: Lamp
+    100106: Elephant
+    100108: Elephant.000
+    100110: Elephant.001
+    100112: Feet_Target.L
+    100114: Feet_Target.L_end
+    100116: Feet_Target.R
+    100118: Feet_Target.R_end
+    400000: //RootNode
+    400002: Armature
+    400004: Body
+    400006: Cylinder
+    400008: Ear.L
+    400010: Ear.L_end
+    400012: Ear.R
+    400014: Ear.R_end
+    400016: Feet_Back.L
+    400018: Feet_Back.L_end
+    400020: Feet_Back.R
+    400022: Feet_Back.R_end
+    400024: Feet_Front.L
+    400026: Feet_Front.L_end
+    400028: Feet_Front.R
+    400030: Feet_Front.R_end
+    400032: Head
+    400034: Lower_Leg_Back.L
+    400036: Lower_Leg_Back.R
+    400038: Lower_Leg_Back_Target.L
+    400040: Lower_Leg_Back_Target.L_end
+    400042: Lower_Leg_Back_Target.R
+    400044: Lower_Leg_Back_Target.R_end
+    400046: Lower_Leg_Front.L
+    400048: Lower_Leg_Front.R
+    400050: Lower_Leg_Front_Target.L
+    400052: Lower_Leg_Front_Target.L_end
+    400054: Lower_Leg_Front_Target.R
+    400056: Lower_Leg_Front_Target.R_end
+    400058: Neck
+    400060: Nose
+    400062: Nose_end
+    400064: Nose_Target
+    400066: Nose_Target_end
+    400068: Root
+    400070: Tail_1
+    400072: Tail_End
+    400074: Tail_End_end
+    400076: Tail_End_Target
+    400078: Tail_End_Target_end
+    400080: Tail_Start
+    400082: Trunk_1
+    400084: Trunk_2
+    400086: Trunk_End
+    400088: Upper_Leg_Back.L
+    400090: Upper_Leg_Back.R
+    400092: Upper_Leg_Front.L
+    400094: Upper_Leg_Front.R
+    400096: Camera
+    400098: Cylinder.001
+    400100: Cylinder.002
+    400102: Empty
+    400104: Lamp
+    400106: Elephant
+    400108: Elephant.000
+    400110: Elephant.001
+    400112: Feet_Target.L
+    400114: Feet_Target.L_end
+    400116: Feet_Target.R
+    400118: Feet_Target.R_end
+    2300000: //RootNode
+    2300002: Cylinder
+    2300004: Cylinder.001
+    3300000: //RootNode
+    3300002: Cylinder
+    3300004: Cylinder.001
+    4300000: Cylinder
+    4300002: Cylinder.002
+    4300004: Cylinder.001
+    4300006: Elephant
+    4300008: Elephant.001
+    4300010: Elephant.000
+    7400000: Armature|ArmatureAction
+    7400002: Armature|Elephant.001Action
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cylinder
+    13700002: Cylinder.002
+    13700004: Elephant
+    13700006: Elephant.000
+    13700008: Elephant.001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
